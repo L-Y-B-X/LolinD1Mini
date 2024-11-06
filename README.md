@@ -6,3 +6,6 @@ https://www.wemos.cc/en/latest/d1/d1_mini.html
 
 LCD 引脚连接为SDA----4
              SCL----5
+# 2812灯珠
+# oled屏幕
+# 连接wifi控制开门
